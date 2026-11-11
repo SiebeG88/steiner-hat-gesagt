@@ -1,10 +1,20 @@
 {
-  "name": "steiner",
-  "displayName": "Was hat Steiner gesagt?",
+  "name": "steiner-hat-gesagt",
+  "displayName": "Steiner hat gesagt",
   "version": "1.0.0",
-  "description": "Search and quote Rudolf Steiner's collected works (Gesamtausgabe) with GA number, page and lecture date for every quote.",
-  "author": { "name": "SiebeG88" },
-  "homepage": "https://was-hat-steiner-gesagt.vercel.app",
+  "description": "“Steiner hat gesagt …” – now you can check. Search and quote Rudolf Steiner's collected works (Gesamtausgabe) with GA number, page and lecture date.",
+  "author": {
+    "name": "SiebeG88"
+  },
+  "homepage": "https://steiner-hat-gesagt.vercel.app",
   "license": "MIT",
-  "keywords": ["rudolf steiner", "anthroposophy", "gesamtausgabe", "biodynamic", "waldorf", "research", "quotes"]
+  "keywords": [
+    "rudolf steiner",
+    "anthroposophy",
+    "gesamtausgabe",
+    "biodynamic",
+    "waldorf",
+    "research",
+    "quotes"
+  ]
 }

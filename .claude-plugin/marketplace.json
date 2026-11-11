@@ -1,12 +1,16 @@
 {
-  "name": "steiner",
-  "owner": { "name": "SiebeG88" },
-  "metadata": { "description": "Search and quote Rudolf Steiner's collected works." },
+  "name": "steiner-hat-gesagt",
+  "owner": {
+    "name": "SiebeG88"
+  },
+  "metadata": {
+    "description": "Search and quote Rudolf Steiner's collected works."
+  },
   "plugins": [
     {
-      "name": "steiner",
+      "name": "steiner-hat-gesagt",
       "source": "./",
-      "description": "Search and quote Rudolf Steiner's collected works (Gesamtausgabe) with GA number, page and lecture date for every quote.",
+      "description": "“Steiner hat gesagt …” – now you can check. Search and quote Rudolf Steiner's collected works (Gesamtausgabe) with GA number, page and lecture date.",
       "category": "research"
     }
   ]

@@ -1,8 +1,8 @@
 {
   "mcpServers": {
-    "steiner": {
+    "steiner-hat-gesagt": {
       "type": "http",
-      "url": "https://was-hat-steiner-gesagt.vercel.app/mcp"
+      "url": "https://steiner-hat-gesagt.vercel.app/mcp"
     }
   }
 }

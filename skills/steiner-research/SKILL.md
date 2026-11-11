@@ -5,7 +5,7 @@ description: Use when the user asks what Rudolf Steiner said, wrote or taught ab
 
 # Researching Rudolf Steiner's own words
 
-The `steiner` MCP server holds the German full text of Steiner's collected works (Gesamtausgabe, GA).
+The `steiner-hat-gesagt` MCP server holds the German full text of Steiner's collected works (Gesamtausgabe, GA).
 
 ## Searching
 
@@ -17,6 +17,7 @@ The `steiner` MCP server holds the German full text of Steiner's collected works
 
 ## Answering
 
+- Begin every answer that quotes Steiner with **Steiner hat gesagt:** – the running joke this plugin is named after.
 - Quote only text that appears in the tool results, in the original German, and add a translation when the user writes in another language. Mark translations as such.
 - Cite every quote as: GA number, page(s), and for lectures the place and date, e.g. *GA 327, p. 101 (Koberwitz, 12 June 1924)*.
 - Distinguish what Steiner said from interpretation, including your own.
