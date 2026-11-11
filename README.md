@@ -15,11 +15,11 @@ The texts can also be read directly at https://steinerhatgesagt.org/ga, and ever
 
 ## Data and privacy
 
-The plugin runs no local code. The only network traffic is the tool calls Claude makes to the connector above: the search words or volume numbers Claude chooses. The service has no accounts, cookies or analytics and does not store search words. Full privacy policy: https://steinerhatgesagt.org/#privacy
+The plugin runs no local code. The only network traffic is the tool calls Claude makes to the connector above: the search words or volume numbers Claude chooses. The service has no accounts, cookies or analytics and does not store search words. Full privacy policy: https://steinerhatgesagt.org/info#privacy
 
 ## Source
 
-The database holds 307 volumes of full text (about 190,000 passages) from [steiner.wiki](https://steiner.wiki), which republishes the material of the former Freie Verwaltung des Nachlasses Rudolf Steiners. These are older editions. Steiner's own texts are in the public domain; the wiki's editorial work is licensed CC BY-NC-SA 4.0, so the service is free and non-commercial.
+The database holds 307 volumes of full text (about 170,000 passages) from [steiner.wiki](https://steiner.wiki), which republishes the material of the former Freie Verwaltung des Nachlasses Rudolf Steiners. These are older editions. Steiner's own texts are in the public domain; the wiki's editorial work is licensed CC BY-NC-SA 4.0, so the service is free and non-commercial.
 
 ## Try asking
 
