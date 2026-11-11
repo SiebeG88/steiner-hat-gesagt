@@ -16,5 +16,7 @@
     "waldorf",
     "research",
     "quotes"
-  ]
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://steinerhatgesagt.org/info#privacy"
 }
