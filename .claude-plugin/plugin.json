@@ -18,5 +18,8 @@
     "quotes"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://steinerhatgesagt.org/info#privacy"
+  "privacyPolicyUrl": "https://steinerhatgesagt.org/info#privacy",
+  "repository": "https://github.com/SiebeG88/steiner-hat-gesagt",
+  "documentationUrl": "https://steinerhatgesagt.org/info",
+  "supportUrl": "mailto:kontakt@steinerhatgesagt.org"
 }
