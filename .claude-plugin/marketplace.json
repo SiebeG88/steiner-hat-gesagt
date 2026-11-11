@@ -1,0 +1,13 @@
+{
+  "name": "steiner",
+  "owner": { "name": "SiebeG88" },
+  "metadata": { "description": "Search and quote Rudolf Steiner's collected works." },
+  "plugins": [
+    {
+      "name": "steiner",
+      "source": "./",
+      "description": "Search and quote Rudolf Steiner's collected works (Gesamtausgabe) with GA number, page and lecture date for every quote.",
+      "category": "research"
+    }
+  ]
+}
