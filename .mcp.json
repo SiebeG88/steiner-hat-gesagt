@@ -2,7 +2,7 @@
   "mcpServers": {
     "steiner-hat-gesagt": {
       "type": "http",
-      "url": "https://steiner-hat-gesagt.vercel.app/mcp"
+      "url": "https://steinerhatgesagt.org/mcp"
     }
   }
 }

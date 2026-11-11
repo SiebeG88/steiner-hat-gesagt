@@ -4,16 +4,18 @@ Among anthroposophists, “Steiner hat gesagt” (Steiner said) is the classic w
 
 ## What it contains
 
-- **MCP connector** `steiner-hat-gesagt`: a remote, read-only server at `https://steiner-hat-gesagt.vercel.app/mcp`. It needs no account or key.
+- **MCP connector** `steiner-hat-gesagt`: a remote, read-only server at `https://steinerhatgesagt.org/mcp`. It needs no account or key.
 - **Skill** `steiner-research`: guidance for Claude on searching in German, reading context before quoting, and citing correctly.
 
 The connector offers five read-only tools: `search` (German full-text search with stemming, filters for volume and lecture date), `read` (a chapter, page range or the text around a hit), `list_works` (the catalogue of all 383 volumes), `get_work` (one volume's table of contents) and `count_matches` (how often a topic occurs by year, volume or place).
 
 Every reply from the connector starts with *Steiner hat gesagt:*, and Claude is asked to open its answers the same way.
 
+The texts can also be read directly at https://steinerhatgesagt.org/ga, and every page is available as Markdown (add `.md`); agents can start from https://steinerhatgesagt.org/llms.txt.
+
 ## Data and privacy
 
-The plugin runs no local code. The only network traffic is the tool calls Claude makes to the connector above: the search words or volume numbers Claude chooses. The service has no accounts, cookies or analytics and does not store search words. Full privacy policy: https://steiner-hat-gesagt.vercel.app/#privacy
+The plugin runs no local code. The only network traffic is the tool calls Claude makes to the connector above: the search words or volume numbers Claude chooses. The service has no accounts, cookies or analytics and does not store search words. Full privacy policy: https://steinerhatgesagt.org/#privacy
 
 ## Source
 
