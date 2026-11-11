@@ -15,7 +15,7 @@ The texts can also be read directly at https://steinerhatgesagt.org/ga, and ever
 
 ## Data and privacy
 
-The plugin runs no local code. The only network traffic is the tool calls Claude makes to the connector above: the search words or volume numbers Claude chooses. The service has no accounts, cookies or analytics and does not store search words. Full privacy policy: https://steinerhatgesagt.org/info#privacy
+The plugin runs no local code. The only network traffic is the tool calls Claude makes to the connector above: the search words or volume numbers Claude chooses. The service has no accounts or cookies. Tool calls are logged without IP addresses (tool, search words, number of results and the AI client's name) to see what is used. Full privacy policy: https://steinerhatgesagt.org/info#privacy
 
 ## Source
 
